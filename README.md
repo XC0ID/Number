@@ -26,7 +26,7 @@ Random number generation
 Input validation
 Unlimited attempts
 
-# 📌 Python Practice Project
+# 📌 Squares-Generator Practice Project
 
 This repository contains basic Python programs for learning and practice.
 
